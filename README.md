@@ -1,4 +1,4 @@
-Final Project | CRM @[ArkX](https://www.arkx.group/)
+# MERN STACK by Shivansh Tyagi
 
 ## Introduction: What is a CRM?
 [**Customer relationship management (CRM)**](https://www.salesforce.com/crm/what-is-crm/) is a technology for managing all your company’s relationships and interactions with customers and potential customers. The goal is simple: Improve business relationships to grow your business. A CRM system helps companies stay connected to customers, streamline processes, and improve profitability.
