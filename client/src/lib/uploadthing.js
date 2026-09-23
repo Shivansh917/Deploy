@@ -1,7 +1,7 @@
 import { generateUploadButton, generateUploadDropzone } from "@uploadthing/react";
 import { generateReactHelpers } from "@uploadthing/react/hooks";
 
-const URL = "http://localhost:3000/api/uploadthing";
+const URL = "https://deploy-uva8.onrender.com";
 
 export const { useUploadThing, getRouteConfig, uploadFiles } = generateReactHelpers({ url: URL});
 export const UploadButton = generateUploadButton({ url: URL });
