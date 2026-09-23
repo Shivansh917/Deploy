@@ -105,7 +105,7 @@ const KanbanBoard = () => {
     <Box w="full" p={4} overflowX="auto">
       <Box mb={4}>
         <Text fontSize="2xl" fontWeight="bold">
-          Sales Kanban
+          Sales Summary
         </Text>
 
         <Text mt={1} color="gray.600">

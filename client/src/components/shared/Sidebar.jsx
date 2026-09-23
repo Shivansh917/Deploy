@@ -155,17 +155,14 @@ const Sidebar = ({ isSidebarOpen, toggleSidebar }) => {
       <NavItem icon={FaListUl} label="Tasks" to="/tasks" isSidebarOpen={isSidebarOpen} />
       <NavItem
         icon={PiKanbanBold}
-        label="Kanban"
+        label="Summary"
         to="/kanban"
         isSidebarOpen={isSidebarOpen}
       />
 
       <Divider m={4} />
 
-      <NavItem label="Emails" isSidebarOpen={isSidebarOpen} />
-      <NavItem label="Chat" isSidebarOpen={isSidebarOpen} />
-      <NavItem label="Calendar" isSidebarOpen={isSidebarOpen} />
-      <NavItem label="More..." isSidebarOpen={isSidebarOpen} />
+      
 
       <Box
         as="span"

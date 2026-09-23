@@ -73,7 +73,7 @@ const CreateContactForm = ({ isOpen, onClose }) => {
     return Object.keys(newErrors).length === 0;
   };
 
-  const [selectedSalutation, setSelectedSalutation] = useState("Shut Down");
+ const [selectedSalutation, setSelectedSalutation] = useState("");
 
   const handleStatusChange = (event) => {
     setSelectedSalutation(event.target.value);
